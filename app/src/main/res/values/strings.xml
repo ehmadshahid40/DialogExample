@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DialogExample</string>
+    <string name="TvSDialog">single Choice Alert Dialog Box</string>
+</resources>
